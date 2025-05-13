@@ -1,4 +1,4 @@
-package Assignment.IntermediateLevel;
+package assignment.intermediateLevel;
 
 import java.io.BufferedReader;
 import java.io.FileReader;
