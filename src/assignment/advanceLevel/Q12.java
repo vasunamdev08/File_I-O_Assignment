@@ -1,4 +1,4 @@
-package Assignment.AdvanceLevel;
+package assignment.advanceLevel;
 
 import java.io.*;
 

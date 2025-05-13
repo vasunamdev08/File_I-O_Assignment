@@ -1,4 +1,4 @@
-package Assignment.IntermediateLevel;
+package assignment.intermediateLevel;
 
 import java.io.BufferedWriter;
 import java.io.FileWriter;

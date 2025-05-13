@@ -1,4 +1,4 @@
-package Assignment.BasicLevel;
+package assignment.basicLevel;
 
 import java.io.*;
 
