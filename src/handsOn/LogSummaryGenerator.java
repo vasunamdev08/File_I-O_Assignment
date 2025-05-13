@@ -1,4 +1,4 @@
-package hands_on;
+package handsOn;
 
 import java.io.*;
 import java.nio.file.*;
